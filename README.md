@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Vikas-u-rao/interview-prep/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vikas-u-rao/interview-prep/tree/master/0595-big-countries) |
 | [2087-confirmation-rate](https://github.com/Vikas-u-rao/interview-prep/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vikas-u-rao/interview-prep/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vikas-u-rao/interview-prep/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
