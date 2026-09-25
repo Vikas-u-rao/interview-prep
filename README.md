@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vikas-u-rao/interview-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vikas-u-rao/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Vikas-u-rao/interview-prep/tree/master/0238-product-of-array-except-self) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vikas-u-rao/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vikas-u-rao/interview-prep/tree/master/0007-reverse-integer) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
