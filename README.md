@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vikas-u-rao/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vikas-u-rao/interview-prep/tree/master/0125-valid-palindrome) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Vikas-u-rao/interview-prep/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
