@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vikas-u-rao/interview-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vikas-u-rao/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vikas-u-rao/interview-prep/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vikas-u-rao/interview-prep/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vikas-u-rao/interview-prep/tree/master/0238-product-of-array-except-self) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vikas-u-rao/interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vikas-u-rao/interview-prep/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Vikas-u-rao/interview-prep/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vikas-u-rao/interview-prep/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,11 +58,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vikas-u-rao/interview-prep/tree/master/0217-contains-duplicate) |
 | [4355-rearrange-string-to-avoid-character-pair](https://github.com/Vikas-u-rao/interview-prep/tree/master/4355-rearrange-string-to-avoid-character-pair) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vikas-u-rao/interview-prep/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
