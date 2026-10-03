@@ -24,4 +24,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vikas-u-rao/interview-prep/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vikas-u-rao/interview-prep/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vikas-u-rao/interview-prep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
