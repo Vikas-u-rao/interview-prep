@@ -14,18 +14,21 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
