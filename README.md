@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Vikas-u-rao/interview-prep/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikas-u-rao/interview-prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vikas-u-rao/interview-prep/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Vikas-u-rao/interview-prep/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vikas-u-rao/interview-prep/tree/master/0678-valid-parenthesis-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vikas-u-rao/interview-prep/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
